@@ -105,7 +105,7 @@ namespace ImGuiNET
 
             }
 
-            #region Code mẫu sẽ xóa đi
+            #region Code mẫu sẽ xóa đi, nhớ xóa bớt các biến bên trên
 
 
             // // 1. Show a simple window.
